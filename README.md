@@ -1,29 +1,16 @@
-# demo
+# demo repo
 This is a repo for testing making a new repo
 
-## As Kanye West said:
+## As Daniel said:
+> Daniel is hacking you...with your help.
 
-> We're living the future so
-> the present is our past.
+### Notes from the day:
+This is a demo repository to use `git` commands
 
-I think you should use an
-`<addr>` element here instead.
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-  *This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-Daniel is hacking you...with your help.
+*These are **some** of the git commands we used today*
+_And some of the associated flags_
+* `git clone`
+* `git commit`
+    * `git commit -m <message>`
+* `git add`
+    * `git add .`
